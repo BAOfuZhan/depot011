@@ -6,9 +6,9 @@
             "username": "",
             "password": "",
             "times": ["10:00", "15:00"],
-            "roomid": "13501",
-            "seatid": ["321"],
-            "seatPageId": "13501",
+            "roomid": "13486",
+            "seatid": ["341"],
+            "seatPageId": "13486",
             "fidEnc": "4a18e12602b24c8c",
             "daysofweek": ["Tuesday"]
         },
@@ -17,9 +17,9 @@
             "username": "",
             "password": "",
             "times": ["10:00", "22:00"],
-            "roomid": "13501",
-            "seatid": ["321"],
-            "seatPageId": "13501",
+            "roomid": "13486",
+            "seatid": ["341"],
+            "seatPageId": "13486",
             "fidEnc": "4a18e12602b24c8c",
             "daysofweek": ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
         }
