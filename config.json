@@ -7,7 +7,7 @@
             "password": "",
             "times": ["10:00", "15:00"],
             "roomid": "13501",
-            "seatid": ["329"],
+            "seatid": ["321"],
             "seatPageId": "13501",
             "fidEnc": "4a18e12602b24c8c",
             "daysofweek": ["Tuesday"]
@@ -18,7 +18,7 @@
             "password": "",
             "times": ["10:00", "22:00"],
             "roomid": "13501",
-            "seatid": ["329"],
+            "seatid": ["321"],
             "seatPageId": "13501",
             "fidEnc": "4a18e12602b24c8c",
             "daysofweek": ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
